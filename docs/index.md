@@ -218,6 +218,7 @@ ViewComponent is built by over a hundred members of the community, including:
 * [Cometeer](https://cometeer.com/)
 * [Consul](https://consulproject.org/en/)
 * [Cults.](https://cults3d.com/)
+* [Dis Vague](https://dis-vague.com/)
 * [Framework](https://frame.work/)
 * [FreeAgent](https://www.freeagent.com)
 * [G2](https://www.g2.com/) (200+ components)
